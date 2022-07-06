@@ -1,0 +1,28 @@
+body{
+    background-image: url(cat.png);
+    background-size: cover;
+    color: aliceblue;
+    font-family: verdana;
+    margin: 20px;
+    text-align: left;
+    width: 40%;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 18px;
+    background-color: rgba(178, 54, 54, 0.744);
+    background-image: linear-gradient(to bottom, rgb(151, 118, 118), rgb(178, 54, 60));
+    padding: 10px;
+}
+
+p{
+    font-size: 12px;
+}
+
+ul{
+    font-size: 12px;
+}

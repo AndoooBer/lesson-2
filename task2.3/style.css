@@ -1,0 +1,60 @@
+body{
+    font-family: verdana;
+    background-color: azure;
+}
+
+header{
+    background-color: rgb(144, 167, 188);
+    color: white;
+    text-align: center;
+    padding: 0 100px 0 100px;
+}
+
+h1{
+    padding-bottom: 30px;
+    margin: 0px;
+}
+
+h2{
+    background-color: rgb(144, 167, 188);
+    color: white;
+    padding: 10px 0px 10px 5px;
+    margin-top: 30px;
+}
+
+h3{
+    color: rgb(45, 24, 24)4
+}
+
+h4{
+    margin: auto;
+}
+
+img{
+    size: 20px;
+}
+
+a{
+    color: gray;
+    font-size: 16px;
+}
+
+main{
+    width: 600px;
+    text-align: left;
+    margin: auto;
+}
+
+div{
+    border: rgb(133, 190, 228) 2px solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin: 20px 0px 20px 0px;
+}
+
+footer{
+    background-color: rgb(144, 167, 188);
+    color: white;
+    text-align: center;
+    padding: 30px 0px 30px 0px;    
+}
